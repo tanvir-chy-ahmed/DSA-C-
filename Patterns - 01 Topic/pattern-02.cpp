@@ -1,5 +1,14 @@
 #include <iostream>
 
+/*
+
+OUTPUT:
+
+A B C 
+D E F 
+G H I 
+
+*/
 int main(){
 
 
